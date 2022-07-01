@@ -1,6 +1,6 @@
 
 const calcular = document.getElementById('calcular');
-
+/* testando um comentario em js*/
 
 function imc() {
     const nome = document.getElementById('nome').value;
